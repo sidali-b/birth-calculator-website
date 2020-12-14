@@ -20,7 +20,25 @@ function naming(){
     if(dayOfTheWeek===0){
       alert("You were born on: " + day[0]);
       alert("Your Akan name is: " + maleNames[0]);
-
+    } else if(dayOfTheWeek===1){
+      alert("You were born on: " + day[1]);
+      alert("Your Akan name is: " + maleNames[1]);
+    } else if(dayOfTheWeek===2){
+      alert("You were born on: " + day[2]);
+      alert("Your Akan name is: " + maleNames[2]);
+    } else if(dayOfTheWeek===3){
+      alert("You were born on: " + day[3]);
+      alert("Your Akan name is: " + maleNames[3]);
+    } else if(dayOfTheWeek===4){
+      alert("You were born on: " + day[4]);
+      alert("Your Akan name is: " + maleNames[4]);
+    } else if(dayOfTheWeek===5){
+      alert("You were born on: " + day[5]);
+      alert("Your Akan name is: " + maleNames[5]);
+    } else if(dayOfTheWeek===6){
+      alert("You were born on: " + day[6]);
+      alert("Your Akan name is: " + maleNames[6]);
+    }
 
 
 
