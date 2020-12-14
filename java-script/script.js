@@ -13,7 +13,7 @@ function naming(){
       alert("No blank values allowed");
   }
 
-  let 
+  let  gender = document.querySelector('input[name="gender"]:checked').value;
 
 
 
